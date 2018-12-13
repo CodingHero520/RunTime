@@ -29,12 +29,7 @@
     
 }
 -(void)TestRunTime{
-    
-    
-    //测试分支的管理
-    
-    //测试2
-    
+
    
     // 获得类名
     id classObject = objc_getClass([@"ViewController" UTF8String]);
