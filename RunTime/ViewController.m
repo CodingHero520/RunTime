@@ -30,7 +30,7 @@
 }
 -(void)TestRunTime{
 
-    //kjhkbkl
+    //kjhkbk
     // 获得类名
     id classObject = objc_getClass([@"ViewController" UTF8String]);
     
